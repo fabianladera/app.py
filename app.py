@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as streamlite
 
 st.title("Mi primera aplicación en python")
 
